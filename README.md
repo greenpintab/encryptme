@@ -19,7 +19,7 @@ Client-side encryption is vital for privacy, business confidentiality on third p
 - [License](#license)
 
 ## Installation
-
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 ### CocoaPods
 
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate encryptme into your Xcode project using CocoaPods, specify it in your `Podfile`:
@@ -29,6 +29,7 @@ pod "encryptme", :git => 'https://github.com/user/encryptme.git'
 ```
 
 ## Usage
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ### Create
 ```swift
 var vault = try Encryptme.create(password: "secret password")
@@ -42,11 +43,11 @@ var vault = try Encryptme.create(password: "secret password")
 var vault = try Encryptme.create(password: "secret password")
 ```
 
-## Credits
-Encryptme is owned and maintained by [Parmezan](http://parmezan.io).
-
 ## Contribute
 If you believe you have identified a security vulnerability with Encryptme, you should report it as soon as possible via email to security@parmezan.io. Please do not post it to a public issue tracker.
+
+## Credits
+Encryptme is owned and maintained by [Parmezan](http://parmezan.io).
 
 ## License
 Encryptme is licensed under the MIT License. See the [LICENSE.md](https://github.com/greenpintab/encryptme/blob/master/LICENSE) file for details
