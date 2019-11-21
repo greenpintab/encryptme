@@ -1,7 +1,7 @@
 # encryptme
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/greenpintab/encryptme/blob/master/LICENSE)
-[![Pod compatible](https://img.shields.io/badge/Pod-Compatible-blue.svg)](https://github.com/CocoaPods/CocoaPods)
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-blue.svg?style=flat)](https://developer.apple.com/swift/)
+[![Pod compatible](https://img.shields.io/badge/Pod-Compatible-blue.svg)](https://github.com/CocoaPods/CocoaPods)
 
 > Encryption is easy. Key management is not.
 
