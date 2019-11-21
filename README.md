@@ -1,10 +1,12 @@
 ![Encryptme - Simple and Secure](https://raw.githubusercontent.com/greenpintab/encryptme/master/Artboard-1.png)
+<br>
+<br>
+
+> Encryption is easy. Key management is not.
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/greenpintab/encryptme/blob/master/LICENSE)
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-blue.svg?style=flat)](https://developer.apple.com/swift/)
 [![Pod compatible](https://img.shields.io/badge/Pod-Compatible-blue.svg)](https://github.com/CocoaPods/CocoaPods)
-
-> Encryption is easy. Key management is not.
 
 Client-side encryption is vital for privacy, business confidentiality on third party, untrusted clouds.
 
