@@ -19,9 +19,9 @@ Client-side encryption is vital for privacy, business confidentiality on third p
 - [License](#license)
 
 ## Installation
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-### CocoaPods
+At the moment is supported CocoaPods but we'll add support for other package managers, soon.
 
+### CocoaPods
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate encryptme into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
