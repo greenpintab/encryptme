@@ -1,4 +1,4 @@
-![Encryptme - Simple and Secure](https://raw.githubusercontent.com/greenpintab/encryptme/master/Artboard.png)
+![Encryptme - Simple and Secure](https://raw.githubusercontent.com/greenpintab/encryptme/master/Artboard-1.png)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/greenpintab/encryptme/blob/master/LICENSE)
 [![Swift 5.0](https://img.shields.io/badge/Swift-5.0-blue.svg?style=flat)](https://developer.apple.com/swift/)
