@@ -8,13 +8,12 @@
 
 Client-side encryption is vital for privacy, business confidentiality on third party, untrusted clouds.
 
-# Content
+## Content
 - [Installation](#installation)
 - [Usage](#usage)
-- [Requirements](#requirements)
-- [Migration Guides](#migration-guides)
-- [Communication](#communication)
-- [Installation](#installation)
+- [Credits](#requirements)
+- [Contribute](#migration-guides)
+- [License](#communication)
 
 ## Installation
 
