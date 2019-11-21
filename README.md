@@ -12,8 +12,7 @@ Client-side encryption is vital for privacy, business confidentiality on third p
 
 ### CocoaPods
 
-🗄 encryptme is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate encryptme into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
 pod "encryptme", :git => 'https://github.com/user/encryptme.git'
