@@ -19,4 +19,4 @@ pod "encryptme", :git => 'https://github.com/user/encryptme.git'
 ```
 
 ## License
-Encryptme is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Encryptme is licensed under the MIT License - see the [LICENSE.md](https://github.com/greenpintab/encryptme/blob/master/LICENSE) file for details
