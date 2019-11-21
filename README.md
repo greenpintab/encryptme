@@ -11,9 +11,9 @@ Client-side encryption is vital for privacy, business confidentiality on third p
 ## Content
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#requirements)
-- [Contribute](#migration-guides)
-- [License](#communication)
+- [Credits](#credits)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Installation
 
@@ -28,16 +28,22 @@ pod "encryptme", :git => 'https://github.com/user/encryptme.git'
 ## Usage
 ### Create
 ```swift
-var vault = try Vault.create(password: "secret password")
+var vault = try Encryptme.create(password: "secret password")
 ```
 ### Open
 ```swift
-var vault = try Vault.create(password: "secret password")
+var vault = try Encryptme.create(password: "secret password")
 ```
-### Close
+### Done
 ```swift
-var vault = try Vault.create(password: "secret password")
+var vault = try Encryptme.create(password: "secret password")
 ```
+
+## Credits
+Encryptme is owned and maintained by [Parmezan](http://parmezan.io).
+
+## Contribute
+If you believe you have identified a security vulnerability with Encryptme, you should report it as soon as possible via email to security@parmezan.io. Please do not post it to a public issue tracker.
 
 ## License
 Encryptme is licensed under the MIT License. See the [LICENSE.md](https://github.com/greenpintab/encryptme/blob/master/LICENSE) file for details
