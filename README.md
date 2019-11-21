@@ -1,6 +1,11 @@
 ![Encryptme - Simple and Secure](https://raw.githubusercontent.com/greenpintab/encryptme/master/Artboard-1.png)
 <br>
 <br>
+<h1 align="center">
+	<img width="250" src="https://raw.githubusercontent.com/greenpintab/encryptme/master/Artboard-1.png" alt="logo">
+	<br>
+	<br>
+</h1>
 
 > Encryption is easy. Key management is not.
 
