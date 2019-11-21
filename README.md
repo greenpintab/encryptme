@@ -31,14 +31,17 @@ pod "encryptme", :git => 'https://github.com/user/encryptme.git'
 ## Usage
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 ### Create
+Some comments if available
 ```swift
 var vault = try Encryptme.create(password: "secret password")
 ```
 ### Open
+Some comments if available
 ```swift
 var vault = try Encryptme.create(password: "secret password")
 ```
 ### Done
+Some comments if available
 ```swift
 var vault = try Encryptme.create(password: "secret password")
 ```
