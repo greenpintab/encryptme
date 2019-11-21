@@ -8,6 +8,14 @@
 
 Client-side encryption is vital for privacy, business confidentiality on third party, untrusted clouds.
 
+# Content
+- [Installation](#installation)
+- [Usage](#usage)
+- [Requirements](#requirements)
+- [Migration Guides](#migration-guides)
+- [Communication](#communication)
+- [Installation](#installation)
+
 ## Installation
 
 ### CocoaPods
@@ -16,6 +24,20 @@ Client-side encryption is vital for privacy, business confidentiality on third p
 
 ```ruby
 pod "encryptme", :git => 'https://github.com/user/encryptme.git'
+```
+
+## Usage
+### Create
+```swift
+var vault = try Vault.create(password: "secret password")
+```
+### Open
+```swift
+var vault = try Vault.create(password: "secret password")
+```
+### Close
+```swift
+var vault = try Vault.create(password: "secret password")
 ```
 
 ## License
