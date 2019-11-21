@@ -1,5 +1,5 @@
 # encryptme
-Encryption is easy. Key management is not.
+Encryption is easy. Key management is not.  
 Client-side encryption is vital for privacy, business confidentiality on third party, untrusted clouds.
 
 ## License
